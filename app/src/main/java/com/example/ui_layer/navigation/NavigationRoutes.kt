@@ -10,3 +10,10 @@ object SignupScreen
 
 @Serializable
 object SignInScreen
+
+
+@Serializable
+object MainScreen
+
+@Serializable
+object BlockedScreen
